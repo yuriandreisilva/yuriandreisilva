@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Yuri!
 
 <!--
-**yuriandreisilva/yuriandreisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently working at @facedigital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:computer: I'm Junior Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning React JS and Vue.js
+
+I'm know a little about PHP, Javascript, Java, Bootstrap, HTML5, CSS3, Sass and WordPress. 
+
+And I've already had contact with Laravel and CodeIgniter;
+ 
+
+## Contact
+
+LINK_LINKEDIN = https://www.linkedin.com/in/yuri-andrei-da-silva-041557127/
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+yuri_andrei@hotmail.com
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
 -->
