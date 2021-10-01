@@ -15,7 +15,7 @@ And I've already had contact with Laravel and CodeIgniter;
 ## Contact
 
 - [@E-mail](yuri_andrei@hotmail.com)
-- [@LinkdeIn](https://www.linkedin.com/in/yuri-andrei-da-silva-041557127/)
+- [@LinkedIn](https://www.linkedin.com/in/yuri-andrei-da-silva-041557127/)
 - [@Instagram](https://www.instagram.com/yuriandreiod/)
 - [@Twitter](https://twitter.com/YuriAndrei1)
 
