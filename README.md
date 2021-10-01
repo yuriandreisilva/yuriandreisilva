@@ -1,23 +1,23 @@
 ### Hi there, I'm Yuri!
 
+I'm currently working on [@Face Digital](https://facedigital.com.br/). And I study at [@Senai](https://sc.senai.br/).
 
+## Skills 🤓
+- PHP, JavaScript, Java
+- WordPress
+- Bootstrap, SASS, LESS, CSS, HTML
+- MySQL
 
-I'm currently working on [Face Digital](https://facedigital.com.br/). And I study at [Senai](https://sc.senai.br/).
-
-:computer: I'm Junior Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning React JS and Vue.js
-
-I'm know a little about PHP, Javascript, Java, Bootstrap, HTML5, CSS3, Sass and WordPress. 
+📚 💻 I’m currently learning React JS and Vue.js
 
 And I've already had contact with Laravel and CodeIgniter;
- 
 
 ## Contact
 
-yuri_andrei@hotmail.com
+[@E-mail](yuri_andrei@hotmail.com)
+[@LinkdeIn](https://www.linkedin.com/in/yuri-andrei-da-silva-041557127/)
+[@Instagram](https://www.instagram.com/yuriandreiod/)
+[@Twitter](https://twitter.com/YuriAndrei1)
 
 - Thanks for visiting.
 
