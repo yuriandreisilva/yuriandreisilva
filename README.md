@@ -19,7 +19,7 @@ And I've already had contact with Laravel and CodeIgniter;
 - [@Instagram](https://www.instagram.com/yuriandreiod/)
 - [@Twitter](https://twitter.com/YuriAndrei1)
 
-- Thanks for visiting.
+# Thanks for visiting.
 
-- Enjoy it!! o/
+# Enjoy it!! o/
 
