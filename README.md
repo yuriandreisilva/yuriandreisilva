@@ -3,10 +3,13 @@
 I'm currently working on [@Face Digital](https://facedigital.com.br/). And I study at [@Senai](https://sc.senai.br/).
 
 ## Skills 🤓
-- PHP, JavaScript, Java
+- HTML, CSS
+- Bootstrap, SASS, LESS, 
+- JavaScript, Vue.js
+- PHP, Java
 - WordPress
-- Bootstrap, SASS, LESS, CSS, HTML
 - MySQL
+- Git
 
 📚 💻 I’m currently learning React JS and Vue.js
 
