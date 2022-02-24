@@ -6,7 +6,7 @@ I'm currently working on [@CredPago](https://www.credpago.com.br/).
 - HTML, CSS
 - Bootstrap, SASS, LESS, 
 - JavaScript, Vue.js
-- PHP, Java
+- PHP, Java, Node.js
 - WordPress
 - MySQL
 - Git
