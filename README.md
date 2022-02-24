@@ -1,6 +1,6 @@
 ### Hi there, I'm Yuri!
 
-I'm currently working on [@Face Digital](https://facedigital.com.br/). And I study at [@Senai](https://sc.senai.br/).
+I'm currently working on [@CredPago](https://www.credpago.com.br/).
 
 ## Skills 🤓
 - HTML, CSS
