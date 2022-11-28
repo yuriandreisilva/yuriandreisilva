@@ -11,7 +11,7 @@ I'm currently working on [@CredPago](https://www.credpago.com.br/).
 - MySQL
 - Git
 
-📚 💻 I’m currently learning React JS and Vue.js
+📚 💻 I'm currently focusing on Node.js
 
 And I've already had contact with Laravel and CodeIgniter;
 
