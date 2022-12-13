@@ -8,7 +8,7 @@ I'm currently working on [@CredPago](https://www.credpago.com.br/).
 - JavaScript, Vue.js
 - PHP, Java, Node.js
 - WordPress
-- MySQL
+- MySQL, Postgress
 - Git
 
 📚 💻 I'm currently focusing on Node.js
