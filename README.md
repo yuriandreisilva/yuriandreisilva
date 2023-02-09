@@ -1,11 +1,11 @@
 ### Hi there, I'm Yuri!
 
-I'm currently working on [@CredPago](https://www.credpago.com.br/).
+I'm currently working on [@CredPago](https://www.credpago.com.br/) by [@Loft](https://loft.com.br/)
 
 ## Skills 🤓
 - HTML, CSS
-- Bootstrap, SASS, LESS, 
-- JavaScript, Vue.js
+- Bootstrap, SASS, LESS, Tailwind CSS 
+- JavaScript, Vue.js, React.js
 - PHP, Java, Node.js
 - WordPress
 - MySQL, PostgreSQL
