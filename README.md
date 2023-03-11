@@ -9,7 +9,7 @@
 - MySQL, PostgreSQL
 - Git
 
-📚 💻 I'm currently focusing on Node.js and Vue.js
+📚 💻 I'm currently focusing on Node.js and React/Vue.js
 
 And I've already had contact with Laravel and CodeIgniter;
 
