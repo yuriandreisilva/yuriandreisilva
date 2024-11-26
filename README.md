@@ -3,8 +3,8 @@
 ## Skills 🤓
 - HTML, CSS
 - Bootstrap, SASS, LESS, Tailwind CSS 
-- JavaScript, Vue.js, React.js
-- PHP, Java, Node.js
+- JavaScript, Vue.js, React.js, Flutter
+- PHP, Java, Node.js, Laravel, CodeIgniter
 - WordPress
 - MySQL, PostgreSQL
 - Git
